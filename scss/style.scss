@@ -1,0 +1,13 @@
+@use 'custom';
+
+//IMPORT COMPONENTS
+
+@use'components/text';
+@use'components/buttons';
+
+//IMPORT SECTIONS
+
+@use 'sections/navbar';
+@use 'sections/footer';
+@use 'sections/intro-section';
+
