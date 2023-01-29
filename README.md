@@ -1,6 +1,6 @@
-# Bootstrao & Sass CA
+# Bootstrap & Sass CA
 
-!![image](https://user-images.githubusercontent.com/100193213/215354931-82765731-a705-4533-a4be-eee5d1311837.png)
+![image](https://user-images.githubusercontent.com/100193213/215354931-82765731-a705-4533-a4be-eee5d1311837.png)
 
 
 My first time using bootstrap & sass
